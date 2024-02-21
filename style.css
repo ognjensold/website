@@ -298,8 +298,8 @@ section {
   flex: 1;
   background: white;
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border: rgb(178, 10, 44) 0.1rem solid;
+  border-color: rgb(178, 10, 44);
   text-align: center;
 }
 
@@ -448,4 +448,68 @@ footer p {
 .sliding{
   
   animation: 35s slide infinite linear;
+}
+
+
+.infopp {
+
+
+  background: #f12711;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.infoppr {
+
+
+  background: #f12711;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+
+.project1{
+  background: #1a2a6c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fdbb2d, #b21f1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.project2{
+  background: #1a2a6c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+}
+
+.project3{
+  background: #1a2a6c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#1a2a6c#fdbb2d);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#1a2a6c#fdbb2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.duncanname{
+
+  background: #667db6;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
